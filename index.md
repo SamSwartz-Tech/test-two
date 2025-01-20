@@ -14,7 +14,7 @@
 
 #### Contact
 - [Contact Form](#contact)
-- [Email Me](mailto:your.email@example.com)
+- [Email Me](mailto:swartzs1@outlook.com)
 
 ---
 
